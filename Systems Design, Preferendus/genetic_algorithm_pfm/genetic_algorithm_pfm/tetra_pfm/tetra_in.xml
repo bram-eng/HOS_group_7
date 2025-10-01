@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Model Name="Case linear optimum vicinity" PFM_XML_Version="2.0">
+  <DecisionMaker Name="Default User" Type="2" Hash="">
+    <Comment />
+  </DecisionMaker>
+  <Alternative Name="RefA1" Type="1">
+    <Comment />
+  </Alternative>
+  <Alternative Name="RefA2" Type="1">
+    <Comment />
+  </Alternative>
+  <Alternative Name="A1" Type="0">
+    <Comment />
+      </Alternative>
+  <Alternative Name="A2" Type="0">
+    <Comment />
+      </Alternative>
+  <Alternative Name="A3" Type="0">
+    <Comment />
+      </Alternative>
+  <Alternative Name="A4" Type="0">
+    <Comment />
+      </Alternative>
+  <Alternative Name="A5" Type="0">
+    <Comment />
+      </Alternative>
+  <Alternative Name="A6" Type="0">
+    <Comment />
+      </Alternative>
+  <Alternative Name="A7" Type="0">
+    <Comment />
+      </Alternative>
+  <Alternative Name="A8" Type="0">
+    <Comment />
+      </Alternative>
+  <Alternative Name="A9" Type="0">
+    <Comment />
+      </Alternative>
+  <Alternative Name="A10" Type="0">
+    <Comment />
+      </Alternative>
+  <Criterion Name="Criteria" IsPreferenceIncreasing="1">
+    <Comment />
+    <Criterion Name="C1" IsPreferenceIncreasing="1">
+      <Comment />
+      <Measurement Name="Ratings" Type="0" DecisionMaker="Default User" SubType="0">
+        <Comment />
+      <RulerValue Name="A1" Value="-282983452.1228336" />
+        <RulerValue Name="A2" Value="-105768082.31962349" />
+        <RulerValue Name="A3" Value="-97765745.83548486" />
+        <RulerValue Name="A4" Value="-97765745.83548486" />
+        <RulerValue Name="A5" Value="-97765745.83548486" />
+        <RulerValue Name="A6" Value="-97765745.83548486" />
+        <RulerValue Name="A7" Value="-97765745.83548486" />
+        <RulerValue Name="A8" Value="-97765745.83548486" />
+        <RulerValue Name="A9" Value="-97765745.83548486" />
+        <RulerValue Name="A10" Value="-97765745.83548486" />
+      </Measurement>
+    </Criterion>
+    <Criterion Name="C2" IsPreferenceIncreasing="1">
+      <Comment />
+      <Measurement Name="Ratings" Type="0" DecisionMaker="Default User" SubType="0">
+        <Comment />
+      <RulerValue Name="A1" Value="87.0055089321223" />
+        <RulerValue Name="A2" Value="87.0055089321223" />
+        <RulerValue Name="A3" Value="87.0055089321223" />
+        <RulerValue Name="A4" Value="87.0055089321223" />
+        <RulerValue Name="A5" Value="87.0055089321223" />
+        <RulerValue Name="A6" Value="87.0055089321223" />
+        <RulerValue Name="A7" Value="87.0055089321223" />
+        <RulerValue Name="A8" Value="87.0055089321223" />
+        <RulerValue Name="A9" Value="87.0055089321223" />
+        <RulerValue Name="A10" Value="87.0055089321223" />
+      </Measurement>
+    </Criterion>
+    <Measurement Name="Criteria Weights" Type="1" DecisionMaker="Default User" SubType="0">
+      <Comment />
+      <RulerValue Name="C1" Value="0.5" />
+      <RulerValue Name="C2" Value="0.5" />
+    </Measurement>
+  </Criterion>
+</Model>
