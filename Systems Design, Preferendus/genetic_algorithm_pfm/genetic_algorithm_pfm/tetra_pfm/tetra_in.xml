@@ -42,22 +42,22 @@
       <Comment />
       <Measurement Name="Ratings" Type="0" DecisionMaker="Default User" SubType="0">
         <Comment />
-      <RulerValue Name="A1" Value="-992.8385416666667" />
-        <RulerValue Name="A2" Value="-996.7447916666667" />
-        <RulerValue Name="A3" Value="-996.7447916666667" />
-        <RulerValue Name="A4" Value="-996.7447916666667" />
-        <RulerValue Name="A5" Value="-996.7447916666667" />
-        <RulerValue Name="A6" Value="-996.7447916666667" />
-        <RulerValue Name="A7" Value="-996.7447916666667" />
-        <RulerValue Name="A8" Value="-996.7447916666667" />
-        <RulerValue Name="A9" Value="-996.7447916666667" />
+      <RulerValue Name="A1" Value="135093.88488928456" />
+        <RulerValue Name="A2" Value="135636.68326536793" />
+        <RulerValue Name="A3" Value="135636.68326536793" />
+        <RulerValue Name="A4" Value="135636.68326536793" />
+        <RulerValue Name="A5" Value="135636.68326536793" />
+        <RulerValue Name="A6" Value="135636.68326536793" />
+        <RulerValue Name="A7" Value="135636.68326536793" />
+        <RulerValue Name="A8" Value="135636.68326536793" />
+        <RulerValue Name="A9" Value="135636.68326536793" />
       </Measurement>
     </Criterion>
     <Criterion Name="C2" IsPreferenceIncreasing="1">
       <Comment />
       <Measurement Name="Ratings" Type="0" DecisionMaker="Default User" SubType="0">
         <Comment />
-      <RulerValue Name="A1" Value="1122.0703125" />
+      <RulerValue Name="A1" Value="1119.140625" />
         <RulerValue Name="A2" Value="1122.0703125" />
         <RulerValue Name="A3" Value="1122.0703125" />
         <RulerValue Name="A4" Value="1122.0703125" />
@@ -72,7 +72,7 @@
       <Comment />
       <Measurement Name="Ratings" Type="0" DecisionMaker="Default User" SubType="0">
         <Comment />
-      <RulerValue Name="A1" Value="605.908203125" />
+      <RulerValue Name="A1" Value="610.302734375" />
         <RulerValue Name="A2" Value="610.302734375" />
         <RulerValue Name="A3" Value="610.302734375" />
         <RulerValue Name="A4" Value="610.302734375" />
@@ -87,7 +87,7 @@
       <Comment />
       <Measurement Name="Ratings" Type="0" DecisionMaker="Default User" SubType="0">
         <Comment />
-      <RulerValue Name="A1" Value="1229.443359375" />
+      <RulerValue Name="A1" Value="1232.373046875" />
         <RulerValue Name="A2" Value="1233.837890625" />
         <RulerValue Name="A3" Value="1233.837890625" />
         <RulerValue Name="A4" Value="1233.837890625" />
